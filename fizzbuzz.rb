@@ -9,4 +9,6 @@ for i in 1..100 do
 	 print("Buzz\n")
 	else
 	 print(i"\n")
+	end
+end
 
